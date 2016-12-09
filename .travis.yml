@@ -17,4 +17,4 @@ script:
 
 after_success: 
   - slather
-  - bash <(curl -s https://codecov.io/bash) -f ./wasbandTestsReports/cobertura.xml
+  - bash <(curl -s https://codecov.io/bash) -f ./TestsReports/cobertura.xml
