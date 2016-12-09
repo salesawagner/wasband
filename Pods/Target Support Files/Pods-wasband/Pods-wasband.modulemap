@@ -1,0 +1,6 @@
+framework module Pods_wasband {
+  umbrella header "Pods-wasband-umbrella.h"
+
+  export *
+  module * { export * }
+}

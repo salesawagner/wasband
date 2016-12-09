@@ -1,0 +1,9 @@
+//NAVBAR
+"LIST"="List";
+"DETAILS"="Details";
+
+//DETAILS VIEW
+"NAME"="Name";
+"GENRE"="Genre";
+"COUNTRY"="Country";
+"WEBSITE"="Website";
